@@ -3,9 +3,9 @@
     package="com.slidingmenu.lib"
     android:versionCode="1"
     android:versionName="1.0" >
-
+<uses-library android:name="com.google.android.maps" />
     <uses-sdk
-        android:minSdkVersion="5"
+        android:minSdkVersion="14"
         android:targetSdkVersion="17" />
 
 </manifest>
